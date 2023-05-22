@@ -5,3 +5,4 @@
 * change from local to remote test
 
 * comando git push
+* comando git pull
